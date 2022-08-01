@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "ethers": "^5.6.9",
+    "etherspot": "^1.35.0",
+    "express": "^4.18.1",
+    "mongoose": "^6.5.0",
+    "nodemon": "^2.0.19",
+    "reflect-metadata": "^0.1.13",
+    "rxjs": "^6.6.7",
+    "sdk": "^0.5.0",
+    "ws": "^8.8.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "final-evaluation",
+  "version": "1.0.0",
+  "main": "server.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
